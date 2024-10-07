@@ -1,11 +1,3 @@
-// ==UserScript==
-// @name         msglogger
-// @namespace    https://cotton.rip
-// @version      0.1
-// @description  basic message logger for shelter
-// @author       cotton.rip
-// ==/UserScript==
-
 (function() {
     const Logger = {
         logMessage: (message) => {
